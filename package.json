@@ -1,5 +1,5 @@
 {
-  "name": "caps-allowed",
+  "name": "@tgxd/caps-allowed",
   "version": "1.0.0",
   "description": "Check if a String has the allowed Percentage of Caps",
   "main": "lib/caps-allowed.js",
@@ -10,6 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "caps",
+    "check",
+    "allowed"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ToxicGamerXD/caps-allowed.git"
