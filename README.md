@@ -32,8 +32,8 @@ console.log(caps_allowed("This String hasn't to many Caps", 65))
     minStringLength: 0,
     stringLength: 31,
     capsLength: 3,
-    capsPercentage: 65,
-    maxCapsPercentage: 4.6,
+    capsPercentage: 4.6,
+    maxCapsPercentage: 65,
     isMaxCaps: false
 }
 */

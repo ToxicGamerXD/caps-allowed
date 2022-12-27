@@ -1,6 +1,6 @@
 {
   "name": "@tgxd/caps-allowed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if a String has the allowed Percentage of Caps",
   "main": "lib/caps-allowed.js",
   "files": [
